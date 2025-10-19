@@ -1,0 +1,17 @@
+# Core libraries
+pandas
+numpy
+
+# NLP + Transformers
+transformers
+torch
+sentencepiece
+nltk
+
+# Web Interface
+gradio
+
+# Utility
+tqdm
+jupyterlab
+
